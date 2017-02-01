@@ -1,6 +1,8 @@
 # Synopsis
-This project 
+This project is an implementation of XDoG Filter. XDoG Filter is an image filter to detect edges of an image in Image Processing.
+
+# Installation
+This code reads the images with the command imread(Which is written inside of it). Thus you need to change it with every image you need to use filter on it.
 
 # License
-
 Matlab
