@@ -6,3 +6,6 @@ This code reads the images with the command imread(Which is written inside of it
 
 # License
 Matlab
+
+
+Results of this filter is provided in the results.pdf file (see https://github.com/CemalUnal/XDoG-Filter/blob/master/results/results.pdf).
