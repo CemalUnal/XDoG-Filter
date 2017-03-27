@@ -10,4 +10,4 @@ Matlab
 # Notes
 There are five variables at the beginning of the code file. To get more satisfying results, you should change these variables with every different image.
 
-Results of this filter is provided in the results.pdf file. Also you can see effect of this five variables in this pdf file. (see https://github.com/CemalUnal/Photomosaic-filter/blob/master/results/results.pdf)
+Results of this filter is provided in the results.pdf file. Also you can see effect of this five variables in this pdf file. (see https://github.com/CemalUnal/XDoG-Filter/blob/master/results/results.pdf
