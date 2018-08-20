@@ -1,3 +1,5 @@
+[![Twitter](https://img.shields.io/twitter/follow/cemalun.svg?style=social&logo=twitter&label=Follow%20Me)
+
 # Synopsis
 This project is an implementation of XDoG Filter. XDoG Filter is an image filter to detect edges of an image in Image Processing.
 
